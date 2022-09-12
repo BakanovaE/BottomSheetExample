@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BottomSheetExample</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="menu_first_part">Menu first part</string>
+    <string name="menu_second_part">Menu second part</string>
+    <string name="forth">Forth</string>
+    <string-array name="tab_layout_tabs_title_list">
+        <item>First</item>
+        <item>Second</item>
+    </string-array>
+</resources>
